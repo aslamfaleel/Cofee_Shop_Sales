@@ -16,7 +16,7 @@ SELECT
     ROUND(SUM(unit_price * transaction_qty))                                                  -- Current Month Total Sales.
     -                                                                                         -- Less
     ROUND(LAG(SUM(unit_price * transaction_qty), 1) OVER (ORDER BY MONTH(transaction_date)))  -- 'Prior Month Sales populated on the same row' ordered by the transaction date 
-																						      -- (If populated it will be in the same ROW as the current Month).
+							                                      -- (If populated it will be in the same ROW as the current Month).
     ),'N0')                                                                                   -- Formatted Number
     AS 'ΔMoM',                                                                                -- Column Name.
     
