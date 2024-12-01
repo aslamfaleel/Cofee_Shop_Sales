@@ -26,7 +26,7 @@ The SQL queries used to inspect and clean the data for this analysis can be foun
 
 Targed SQL queries regarding various business questions can be found here [link].
 
-An interactive Power BI dashboard used to report and explore sales trends can be found clicking [here](https://github.com/aslamfaleel/Coffee_Shop_Sales/blob/main/CoffeeShopSalesPowerBIDashboard.pbix).
+An interactive Power BI dashboard used to report and explore sales trends can be found clicking [here](https://github.com/aslamfaleel/Cofee_Shop_Sales/blob/main/CoffeeShopSalesPowerBIDashboard.pbix).
 
 # 1.2 Data Structure & Initial Checks
 
