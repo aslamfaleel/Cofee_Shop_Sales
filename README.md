@@ -70,7 +70,7 @@ Overarching findings were that weekdays had more sales versus weekends. Further,
 
 * **Month over Month Sales Analysis.**
 
-![image](https://github.com/user-attachments/assets/ec080ebd-d72c-4f11-9748-096fb5065b55)
+![image](https://github.com/user-attachments/assets/ce596865-91ec-4714-b13c-a435b73d393f)
 
 You can find my SQL queries [here](https://github.com/aslamfaleel/Cofee_Shop_Sales/blob/main/1.4_KPI_SalesMoM_Change_PercChange.sql).
   
@@ -78,17 +78,20 @@ You can find my SQL queries [here](https://github.com/aslamfaleel/Cofee_Shop_Sal
 
 * **Month over Month Orders Analysis.**
 
-![image](https://github.com/user-attachments/assets/92d56e00-64c5-49f4-a18a-70241607ec8e)
+![image](https://github.com/user-attachments/assets/093eb49f-fb2f-4fa1-9f15-ad13fd468c99)
 
 You can find my SQL queries [here](https://github.com/aslamfaleel/Cofee_Shop_Sales/blob/main/1.5_KPI_OrdersMoM_Change_PercChange.sql).
 
 ### 3. Products Analysis:
 
-* **Month over Month Products Analysis.**
-
-![image](https://github.com/user-attachments/assets/34dc00d4-f65b-4eb4-9c9d-d412d05ea51e)
+![image](https://github.com/user-attachments/assets/edd44ca0-5b80-4dad-b799-dd3c049c0b69)
 
 You can find my SQL queries [here](https://github.com/aslamfaleel/Cofee_Shop_Sales/blob/main/1.7_KPI_QuantityMoM_Change_PercChange.sql).
+
+* **Month over Month Products Analysis.**
+
+
+
 
 
 
