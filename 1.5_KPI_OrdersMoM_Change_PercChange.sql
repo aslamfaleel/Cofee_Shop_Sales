@@ -1,6 +1,6 @@
 USE coffee_shop_sales_db;
 SELECT 
-	-- 1ST COLUMN: MONTH NUMBER
+    -- 1ST COLUMN: MONTH NUMBER
     MONTH(transaction_date) AS month_number,  
     
     -- 2ND COLUMN: MONTH NAME
