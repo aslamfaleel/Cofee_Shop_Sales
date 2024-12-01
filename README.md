@@ -71,30 +71,13 @@ Overarching findings were that weekdays had more sales versus weekends. Further,
 * **Month over Month Sales Analysis.**
 
 Sales appear to be seasonal for the Coffee Shop where by MoM sales are 30% in March, 20% in April and 32% in May.
+Orders and Products follow a similar pattern to that of sales.
 
 ![image](https://github.com/user-attachments/assets/ce596865-91ec-4714-b13c-a435b73d393f)
 
-You can find my SQL queries [here](https://github.com/aslamfaleel/Cofee_Shop_Sales/blob/main/1.4_KPI_SalesMoM_Change_PercChange.sql).
-  
-### 2. Orders Analysis:
-
-* **Month over Month Orders Analysis.**
-
-![image](https://github.com/user-attachments/assets/093eb49f-fb2f-4fa1-9f15-ad13fd468c99)
-
-You can find my SQL queries [here](https://github.com/aslamfaleel/Cofee_Shop_Sales/blob/main/1.5_KPI_OrdersMoM_Change_PercChange.sql).
-
-### 3. Products Analysis:
-
-![image](https://github.com/user-attachments/assets/edd44ca0-5b80-4dad-b799-dd3c049c0b69)
-
-You can find my SQL queries [here](https://github.com/aslamfaleel/Cofee_Shop_Sales/blob/main/1.7_KPI_QuantityMoM_Change_PercChange.sql).
-
-* **Month over Month Products Analysis.**
-
-
-
-
+You can find my SQL queries for MoM Sales Analysis [here](https://github.com/aslamfaleel/Cofee_Shop_Sales/blob/main/1.4_KPI_SalesMoM_Change_PercChange.sql).
+You can find my SQL queries for MoM Orders Analysis [here](https://github.com/aslamfaleel/Cofee_Shop_Sales/blob/main/1.5_KPI_OrdersMoM_Change_PercChange.sql).
+You can find my SQL queries for MoM Products Analysis [here](https://github.com/aslamfaleel/Cofee_Shop_Sales/blob/main/1.7_KPI_QuantityMoM_Change_PercChange.sql).
 
 
 * **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
