@@ -74,7 +74,7 @@ Overarching findings were that weekdays had more sales versus weekends. Further,
 
 You can find my SQL queries [here](https://github.com/aslamfaleel/Cofee_Shop_Sales/blob/main/1.4_KPI_SalesMoM_Change_PercChange.sql).
   
-### 1. Orders Analysis:
+### 2. Orders Analysis:
 
 * **Month over Month Orders Analysis.**
 
@@ -82,7 +82,7 @@ You can find my SQL queries [here](https://github.com/aslamfaleel/Cofee_Shop_Sal
 
 You can find my SQL queries [here](https://github.com/aslamfaleel/Cofee_Shop_Sales/blob/main/1.5_KPI_OrdersMoM_Change_PercChange.sql).
 
-### 1. Products Analysis:
+### 3. Products Analysis:
 
 * **Month over Month Products Analysis.**
 
