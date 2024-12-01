@@ -66,10 +66,12 @@ The main database consists of 1 table comprising of below columns organised base
 Overarching findings were that weekdays had more sales versus weekends. Further, Barista Espresso, Brewed Chai and Hot Chocolate had the highest sales out of all products.
 
 # Insights Deep Dive
-### Category 1:
+### 1. Sales Analysis:
 
-* **Weekdays vs. Weekend Sales 1.** Weekdays have more sales than weekends. Sales Ratios on a monthly basis as follows.
-* 
+* **Month over Month Sales Analysis.**
+* ![image](https://github.com/user-attachments/assets/ec080ebd-d72c-4f11-9748-096fb5065b55)
+
+  You can find my SQL queries [here](https://github.com/aslamfaleel/Cofee_Shop_Sales/blob/main/1.4_KPI_SalesMoM_Change_PercChange.sql).
   
 * **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
