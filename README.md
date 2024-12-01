@@ -77,6 +77,7 @@ You can find my SQL queries [here](https://github.com/aslamfaleel/Cofee_Shop_Sal
 ### 2. Orders Analysis:
 
 * **Month over Month Orders Analysis.**
+Sales appear to be seasonal for the Coffee Shop where by MoM sales are 30% in March, 20% in April and 32% in May.
 
 ![image](https://github.com/user-attachments/assets/093eb49f-fb2f-4fa1-9f15-ad13fd468c99)
 
