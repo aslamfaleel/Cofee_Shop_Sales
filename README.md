@@ -76,9 +76,9 @@ Orders and Products follow a similar pattern to that of sales.
 ![image](https://github.com/user-attachments/assets/ce596865-91ec-4714-b13c-a435b73d393f)
 
 You can find my SQL queries for
-- 1.1 MoM Sales Analysis [here](https://github.com/aslamfaleel/Cofee_Shop_Sales/blob/main/1.4_KPI_SalesMoM_Change_PercChange.sql).
-- 1.2 MoM Orders Analysis [here](https://github.com/aslamfaleel/Cofee_Shop_Sales/blob/main/1.5_KPI_OrdersMoM_Change_PercChange.sql).
-- 1.3 MoM Products Analysis [here](https://github.com/aslamfaleel/Cofee_Shop_Sales/blob/main/1.7_KPI_QuantityMoM_Change_PercChange.sql).
+1.1 MoM Sales Analysis [here](https://github.com/aslamfaleel/Cofee_Shop_Sales/blob/main/1.4_KPI_SalesMoM_Change_PercChange.sql).
+1.2 MoM Orders Analysis [here](https://github.com/aslamfaleel/Cofee_Shop_Sales/blob/main/1.5_KPI_OrdersMoM_Change_PercChange.sql).
+1.3 MoM Products Analysis [here](https://github.com/aslamfaleel/Cofee_Shop_Sales/blob/main/1.7_KPI_QuantityMoM_Change_PercChange.sql).
 
 
 * **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
