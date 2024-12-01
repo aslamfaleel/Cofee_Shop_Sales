@@ -18,7 +18,7 @@ SELECT
      ),'N0')  
     AS 'ΔMoM',
     
-	-- 5TH COLUMN: PERCENTAGE(%) INCREASE(+) OR DECREASE(-) IN ORDERS
+    -- 5TH COLUMN: PERCENTAGE(%) INCREASE(+) OR DECREASE(-) IN ORDERS
     ROUND(((
     COUNT(DISTINCT(Transaction_id))
     /
