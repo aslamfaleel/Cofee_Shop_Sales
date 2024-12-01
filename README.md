@@ -1,7 +1,6 @@
 # Cofee_Shop_Sales
-Cofee_Shop_Sales
 
-![image](https://github.com/user-attachments/assets/d4ea1086-1e07-4dfa-8fa8-83b7a5ac262e)
+![image](https://github.com/user-attachments/assets/30623856-73b9-4fc9-b3e7-962e41a1b1d1)
 
 # Table of Contents
 [1.1 Project Background](#11-project-background)                                                                                                                              
@@ -23,7 +22,7 @@ Key insights and recommendations per below.
    - Ensure adequate stocks are available at any given point in time.
                    
 
-The SQL queries used to inspect and clean the data for this analysis can be found by clicking [here](https://github.com/aslamfaleel/Coffee_Shop_Sales/blob/main/1.0_CreateDB_and_CleanData.sql).
+The SQL queries used to inspect and clean the data for this analysis can be found by clicking [here](https://github.com/aslamfaleel/Cofee_Shop_Sales/blob/main/1.0_CreateDB_and_CleanData.sql).
 
 Targed SQL queries regarding various business questions can be found here [link].
 
