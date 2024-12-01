@@ -73,6 +73,7 @@ Overarching findings were that weekdays had more sales versus weekends. Further,
 Sales appear to be seasonal for the Coffee Shop where by MoM sales are 30% in March, 20% in April and 32% in May.
 Orders and Products follow a similar pattern to that of sales.
 
+Below is the output of the SQL querry produced for MoM Sales growth.
 ![image](https://github.com/user-attachments/assets/ce596865-91ec-4714-b13c-a435b73d393f)
 
 You can find my SQL queries for
