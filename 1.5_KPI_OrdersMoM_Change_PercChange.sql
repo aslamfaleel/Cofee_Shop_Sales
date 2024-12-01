@@ -1,6 +1,7 @@
 USE coffee_shop_sales_db;
+(
 SELECT 
-    -- 1ST COLUMN: MONTH NUMBER
+	-- 1ST COLUMN: MONTH NUMBER
     MONTH(transaction_date) AS month_number,  
     
     -- 2ND COLUMN: MONTH NAME
@@ -18,7 +19,7 @@ SELECT
      ),'N0')  
     AS 'ΔMoM',
     
-    -- 5TH COLUMN: PERCENTAGE(%) INCREASE(+) OR DECREASE(-) IN ORDERS
+	-- 5TH COLUMN: PERCENTAGE(%) INCREASE(+) OR DECREASE(-) IN ORDERS
     ROUND(((
     COUNT(DISTINCT(Transaction_id))
     /
@@ -28,12 +29,22 @@ SELECT
     AS '%ΔMoM'
     
 FROM coffee_shop_sales
---  WHERE MONTH(transaction_date) IN (4, 5)     -- If you want results for April and May.
+-- WHERE MONTH(transaction_date) IN (4, 5)     -- If you want results for April and May.
 GROUP BY 
     month_number, 
     month_name
-ORDER BY 
-	month_number, 
-    month_name
--- HAVING month_number IN (1,2)  -- IF YOU WANT ONLY JAN AND FEB AS OPPOSED TO ALL MONTHS
-	
+)
+UNION
+(
+-- IF YOU DONT WANT YEARLY TOTAL'S THE ENTIRE CODE BELOW SHOULD BE COMMENTED OUT.
+SELECT
+	'1-6' AS month_number,
+    '1st Half 2023' AS month_name,
+    FORMAT(COUNT(DISTINCT Transaction_id),'N0') AS total_orders, 
+    '' AS 'ΔMoM',
+    '' AS '%ΔMoM'
+FROM coffee_shop_sales
+)
+
+
+
