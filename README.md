@@ -80,7 +80,7 @@ You can find my SQL queries [here](https://github.com/aslamfaleel/Cofee_Shop_Sal
 
 ![image](https://github.com/user-attachments/assets/92d56e00-64c5-49f4-a18a-70241607ec8e)
 
-You can find my SQL queries [here](https://github.com/aslamfaleel/Cofee_Shop_Sales/blob/main/1.5_KPI_OrdersMoM_Change_PercChange.sql)
+You can find my SQL queries [here](https://github.com/aslamfaleel/Cofee_Shop_Sales/blob/main/1.5_KPI_OrdersMoM_Change_PercChange.sql).
 
 ### 1. Products Analysis:
 
@@ -88,7 +88,7 @@ You can find my SQL queries [here](https://github.com/aslamfaleel/Cofee_Shop_Sal
 
 ![image](https://github.com/user-attachments/assets/34dc00d4-f65b-4eb4-9c9d-d412d05ea51e)
 
-You can find my SQL queries [here](https://github.com/aslamfaleel/Cofee_Shop_Sales/blob/main/1.7_KPI_QuantityMoM_Change_PercChange.sql)
+You can find my SQL queries [here](https://github.com/aslamfaleel/Cofee_Shop_Sales/blob/main/1.7_KPI_QuantityMoM_Change_PercChange.sql).
 
 
 
