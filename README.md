@@ -74,6 +74,7 @@ Sales appear to be seasonal for the Coffee Shop where by MoM sales are 30% in Ma
 Orders and Products follow a similar seasonal pattern to that of sales.
 
 Below is the output of the SQL code created to calculate Total Sales per month, MoM difference is sales and MoM percentage change in sales.
+
 ![image](https://github.com/user-attachments/assets/ce596865-91ec-4714-b13c-a435b73d393f)
 
 You can find my SQL queries for
