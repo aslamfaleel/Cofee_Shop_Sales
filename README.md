@@ -70,8 +70,8 @@ Overarching findings were that weekdays had more sales versus weekends. Further,
 
 * **Month over Month (MoM) Sales/Orders/Products Growth Analysis.**
 
-   Sales appear to be seasonal for the Coffee Shop where by MoM sales are 30% in March, 20% in April and 32% in May.
-   Orders and Products follow a similar seasonal pattern to that of sales.
+   Sales appear to be seasonal for the Coffee Shop where by MoM sales were 30% in March, 20% in April and 32% in May respectively.
+   Orders and Products followed a similar seasonal pattern to that of sales.
    
    Below is the output of the SQL code created to calculate Total Sales per month, MoM difference is sales and MoM percentage change in sales.
    
@@ -88,13 +88,10 @@ Overarching findings were that weekdays had more sales versus weekends. Further,
    
    Below is the output of the SQL code created to calculate Total Sales per month, monthly contribution as a percentage to Total Sales.
    
-   ![image](https://github.com/user-attachments/assets/ce596865-91ec-4714-b13c-a435b73d393f)
+   ![image](https://github.com/user-attachments/assets/2094bfb5-7ee8-4f6c-8ba8-e9267765620e)
    
    You can find my SQL queries for
-   1. MoM sales analysis [here](https://github.com/aslamfaleel/Cofee_Shop_Sales/blob/main/1.4_KPI_SalesMoM_Change_PercChange.sql).
-   2. MoM orders analysis [here](https://github.com/aslamfaleel/Cofee_Shop_Sales/blob/main/1.5_KPI_OrdersMoM_Change_PercChange.sql).
-   3. MoM products analysis [here](https://github.com/aslamfaleel/Cofee_Shop_Sales/blob/main/1.7_KPI_QuantityMoM_Change_PercChange.sql).
-
+   1. MoM sales analysis [here](https://github.com/aslamfaleel/Cofee_Shop_Sales/blob/main/1.8_TotalSalesQtyOrders_PerMonthContribution.sql)
 
 
 
