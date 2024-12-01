@@ -12,6 +12,11 @@
 In this project, I analysed a dataset to investigate trends in Sales, Orders, and Products for a coffee shop located in New York, USA over a 6 month period. 
 Key insights and recommendations per below.
 
+- **Insight 1:** There appears to be seasonality in Sales. MoM sales were rather stagnant in Jan and Feb. Sales picked up in March and thereafter continued to grow until the end of May.
+  March, April and May growth in MoM sales were 30%, 20% and 32% respectively. The growth in sales resulted in higher contributions to total sales in April, May and June; 17%, 22% and 24% respectively. 
+
+- **Recommendation 1 :** The coffee shop needs to understand the seasonality of it sales and allocate resources and labor accordingly.
+
 - **Insight 1:** Sales by Weekday vs. Weekend hovers in the range of 70%-75% %  vs. 25%-30%.
 - **Recommendation 1 :** Allocate more resources, labor during weekdays to boost sales revenue.
 
