@@ -1,7 +1,7 @@
 USE coffee_shop_sales_db;
 (
 SELECT 
-	-- 1ST COLUMN: MONTH NUMBER
+    -- 1ST COLUMN: MONTH NUMBER
     MONTH(transaction_date) AS month_number,  
     
     -- 2ND COLUMN: MONTH NAME
@@ -40,7 +40,7 @@ UNION
 (
 -- IF YOU DONT WANT YEARLY TOTAL'S THE ENTIRE CODE BELOW SHOULD BE COMMENTED OUT.
 SELECT
-	'1-6' AS month_number,
+    '1-6' AS month_number,
     '1st Half 2023' AS month_name,
     FORMAT(ROUND(SUM(unit_price * transaction_qty)),'N0') AS total_sales, 
     '' AS 'ΔMoM',
