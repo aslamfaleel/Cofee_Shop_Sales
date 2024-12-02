@@ -137,7 +137,7 @@ The 2nd half 2023 had more sales versus the 1st half primarily due to staggering
 
    An interactive Power BI dashboard used to report and explore sales trends can be found clicking [here](https://github.com/aslamfaleel/Cofee_Shop_Sales/blob/main/CoffeeShopSalesPowerBIDashboard.pbix).
 
-# Recommendations:
+# 1.5 Recommendations:
 
 Based on the insights and findings above, we would recommend the [stakeholder team] to consider the following: 
 
@@ -157,7 +157,7 @@ Based on the insights and findings above, we would recommend the [stakeholder te
    - Ensure adequate stocks are available at any given point in time.
   
 
-# Assumptions and Caveats:
+# 1.6 Assumptions and Caveats:
 
 Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
 
