@@ -79,11 +79,11 @@ The 2nd half 2023 had more sales versus the 1st half primarily due to staggering
    Sales appear to be seasonal for the Coffee Shop where by MoM sales were 30% in March, 20% in April and 32% in May respectively.
    Orders and Products followed a similar seasonal pattern to that of sales.
    
-   Below is the output of the SQL code created to calculate total sales per month, MoM change in sales, and MoM percentage change in sales.
+   Below is the output of the SQL query created to calculate total sales per month, MoM change in sales, and MoM percentage change in sales.
    
    ![image](https://github.com/user-attachments/assets/ce596865-91ec-4714-b13c-a435b73d393f)
    
-   You can find my SQL queries for
+   You can find my SQL queries for my
    1. MoM sales analysis [here](https://github.com/aslamfaleel/Cofee_Shop_Sales/blob/main/1.4_KPI_SalesMoM_Change_PercChange.sql).
    2. MoM orders analysis [here](https://github.com/aslamfaleel/Cofee_Shop_Sales/blob/main/1.5_KPI_OrdersMoM_Change_PercChange.sql).
    3. MoM products analysis [here](https://github.com/aslamfaleel/Cofee_Shop_Sales/blob/main/1.7_KPI_QuantityMoM_Change_PercChange.sql).
@@ -92,33 +92,33 @@ The 2nd half 2023 had more sales versus the 1st half primarily due to staggering
 
    The staggering sales growth during March, April and May resulted in larger contributions to Total Sales in the following months; April 17%, May 22% and June 24%.  
    
-   Below is the output of the SQL code created to calculate total sales/orders/products per month and monthly percentage contribution to total sales/orders/products.
+   Below is the output of the SQL query created to calculate montly sales/orders/products and monthly contribution.
    
    ![image](https://github.com/user-attachments/assets/2094bfb5-7ee8-4f6c-8ba8-e9267765620e)
    
-   You can find my SQL query for
+   You can find my SQL query for my
    1. MoM sales/orders/products analysis [here](https://github.com/aslamfaleel/Cofee_Shop_Sales/blob/main/1.8_TotalSalesQtyOrders_PerMonthContribution.sql)
 
 * **CONTRIBUTION: Quarter over Quarter (QoQ) Contribution Analysis for Sales/Orders/Products.**
 
    Second Quarter sales had a larger contribution of 63% to total sales vs. 37% contribution from the First Quarter.
    
-   Below is the output of the SQL code created to calculate total sales/orders/products per quarter and quarterly percentage contribution to total sales/orders/products.
+   Below is the output of the SQL query created to calculate quarterly sales/orders/products and quarterly contribution.
    
    ![image](https://github.com/user-attachments/assets/8733c4b7-4b51-4868-b80f-92f016c900b9)
    
-   You can find my SQL query for
-   1. QoQ Sales/Orders/Products analysis [here](https://github.com/aslamfaleel/Cofee_Shop_Sales/blob/main/2.9_QuarterSales_AndContribution.sql)
+   You can find my SQL query for my
+   1. QoQ sales/orders/products analysis [here](https://github.com/aslamfaleel/Cofee_Shop_Sales/blob/main/2.9_QuarterSales_AndContribution.sql)
 
 * **CONTRIBUTION: Weekday vs. Weekend Contribution Analysis for Sales/Orders/Products.**
 
    Weekday sales had a larger contribution of 72% to Total Sales vs. 28% contribution from weekend sales.  
    
-   Below is the output of the SQL code created to calculate weekday vs. weekend contribution to total sales/orders/products.
+   Below is the output of the SQL query created to calculate weekday vs. weekend contribution to total sales/orders/products.
 
    ![image](https://github.com/user-attachments/assets/16653460-87ce-4399-8145-518d44327c60)
 
-   You can find my SQL query for
+   You can find my SQL query for my
    1. Weekday vs. weekend sales/orders/products analysis [here](https://github.com/aslamfaleel/Cofee_Shop_Sales/blob/main/2.1_WeekendvsWeekdaySales_ForAMonth.sql)
 
 
