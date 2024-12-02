@@ -5,7 +5,8 @@
 # Table of Contents
 [1.1 Project Background](#11-project-background)                                                                                        
 [1.2 Data Structure & Initial Checks](#12-data-structure--initial-checks)
-
+[1.3 Executive Summary](#13-executive-summary)
+[1.4 Insights Deep Dive](#14-insights-deep-dive)
 
 # 1.1 Project Background
 
