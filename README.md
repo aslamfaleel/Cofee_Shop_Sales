@@ -90,14 +90,25 @@ Overarching findings were that weekdays had more sales versus weekends. Further,
 
 * **CONTRIBUTION: Month over Month (MoM) Contribution Analysis for Sales/Orders/Products.**
 
-   The high growth in sales during March, April and May has resulted larger contributions to Total Sales in subsequent months; April 17%, May 22% and June 24%.  
+   The high growth in sales during March, April and May resulted larger contributions to Total Sales in subsequent months; April 17%, May 22% and June 24%.  
    
    Below is the output of the SQL code created to calculate Total Sales per month, monthly contribution as a percentage to Total Sales.
    
    ![image](https://github.com/user-attachments/assets/2094bfb5-7ee8-4f6c-8ba8-e9267765620e)
    
    You can find my SQL queries for
-   1. MoM sales analysis [here](https://github.com/aslamfaleel/Cofee_Shop_Sales/blob/main/1.8_TotalSalesQtyOrders_PerMonthContribution.sql)
+   1. MoM Sales/Orders/Products analysis [here](https://github.com/aslamfaleel/Cofee_Shop_Sales/blob/main/1.8_TotalSalesQtyOrders_PerMonthContribution.sql)
+
+* **CONTRIBUTION: Quarter over Quarter (MoM) Contribution Analysis for Sales/Orders/Products.**
+
+   The high growth in sales during March, April and May resulted in larger contributions to Total Sales in the 2nd quarter 63% vs. 1st quarter 37%.  
+   
+   Below is the output of the SQL code created to calculate Total Sales per quarter, quarterly contribution as a percentage to Total Sales.
+   
+   ![image](https://github.com/user-attachments/assets/8733c4b7-4b51-4868-b80f-92f016c900b9)
+   
+   You can find my SQL queries for
+   1. QoQ Sales/Orders/Products analysis [here](https://github.com/aslamfaleel/Cofee_Shop_Sales/blob/main/2.9_QuarterSales_AndContribution.sql)
 
 * **CONTRIBUTION: Weekday vs. Weekend Contribution Analysis for Sales/Orders/Products.**
 
@@ -108,7 +119,7 @@ Overarching findings were that weekdays had more sales versus weekends. Further,
    ![image](https://github.com/user-attachments/assets/16653460-87ce-4399-8145-518d44327c60)
 
    You can find my SQL queries for
-   1. Weekday vs. Weekend sales contribution analysis [here](https://github.com/aslamfaleel/Cofee_Shop_Sales/blob/main/2.1_WeekendvsWeekdaySales_ForAMonth.sql)
+   1. Weekday vs. Weekend Sales/Orders/Products analysis [here](https://github.com/aslamfaleel/Cofee_Shop_Sales/blob/main/2.1_WeekendvsWeekdaySales_ForAMonth.sql)
 
 
 
