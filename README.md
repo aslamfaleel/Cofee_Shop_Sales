@@ -92,7 +92,7 @@ The 2nd half 2023 had more sales versus the 1st half primarily due to staggering
 
    The staggering sales growth during March, April and May resulted in larger contributions to Total Sales in the following months; April 17%, May 22% and June 24%.  
    
-   Below is the output of the SQL query created to calculate montly sales/orders/products and monthly contribution.
+   Below is the output of the SQL query created to calculate montly sales/orders/products and contribution.
    
    ![image](https://github.com/user-attachments/assets/2094bfb5-7ee8-4f6c-8ba8-e9267765620e)
    
@@ -103,7 +103,7 @@ The 2nd half 2023 had more sales versus the 1st half primarily due to staggering
 
    Second Quarter sales had a larger contribution of 63% to total sales vs. 37% contribution from the First Quarter.
    
-   Below is the output of the SQL query created to calculate quarterly sales/orders/products and quarterly contribution.
+   Below is the output of the SQL query created to calculate quarterly sales/orders/products and contribution.
    
    ![image](https://github.com/user-attachments/assets/8733c4b7-4b51-4868-b80f-92f016c900b9)
    
