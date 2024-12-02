@@ -6,7 +6,9 @@
 [1.1 Project Background](#11-project-background)                                                                                        
 [1.2 Data Structure & Initial Checks](#12-data-structure--initial-checks)                                                                                                                                                                       
 [1.3 Executive Summary](#13-executive-summary)                                                                                                                                                                                                  
-[1.4 Insights Deep Dive](#14-insights-deep-dive)
+[1.4 Insights Deep Dive](#14-insights-deep-dive)                                                                                                                                                                        
+[1.5 Recommendations](#15-recommendations)                                                                                                                                                                                                  
+[1.6 Assumptions and Caveats](16-assumptions-and-caveats)
 
 # 1.1 Project Background
 
@@ -31,7 +33,7 @@ Key insights and recommendations per below.
 
 The SQL queries used to inspect and clean the data for this analysis can be found by clicking [here](https://github.com/aslamfaleel/Cofee_Shop_Sales/blob/main/1.0_CreateDB_and_CleanData.sql).
 
-Targed SQL queries regarding various business questions can be found here [link].
+Targed SQL queries regarding various business questions can be found here [link](https://github.com/aslamfaleel/Cofee_Shop_Sales).
 
 An interactive Power BI dashboard used to report and explore sales trends can be found clicking [here](https://github.com/aslamfaleel/Cofee_Shop_Sales/blob/main/CoffeeShopSalesPowerBIDashboard.pbix).
 
@@ -139,6 +141,8 @@ The 2nd half 2023 had more sales versus the 1st half primarily due to staggering
 
 # 1.5 Recommendations:
 
+[Back to table of contents](#table-of-contents)
+
 Based on the insights and findings above, we would recommend the [stakeholder team] to consider the following: 
 
 - **Insight 1:** There appears to be seasonality in Sales. MoM sales were rather stagnant in Jan and Feb. Sales picked up in March and thereafter continued to grow until the end of May.
@@ -159,8 +163,10 @@ Based on the insights and findings above, we would recommend the [stakeholder te
 
 # 1.6 Assumptions and Caveats:
 
+[Back to table of contents](#table-of-contents)
+
 Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
 
-* Assumption 1 (ex: 2nd Half sales trend were similar to 1st half)
+* Assumption 1 (ex: 2nd Half sales trend in 2023 were similar to the 1st half of 2023)
   
-* Assumption 1 (ex: data for December 2022 was missing. Hence, we fixed the January growth as zero as a result.)
+* Assumption 1 (ex: Data for December 2022 was missing. Hence, we assumed a zero growth rate in January.)
