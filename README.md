@@ -15,10 +15,10 @@ Key insights and recommendations per below.
 - **Insight 1:** There appears to be seasonality in Sales. MoM sales were rather stagnant in Jan and Feb. Sales picked up in March and thereafter continued to grow until the end of May.
   March, April and May growth in MoM sales were 30%, 20% and 32% respectively. The growth in sales resulted in higher contributions to total sales in April, May and June; 17%, 22% and 24% respectively. 
 
-- **Recommendation 1 :** The coffee shop needs to understand the seasonality of it sales and plan and allocate resources and labor accordingly so as to avoid unforseen events.
+- **Recommendation 1 :** The coffee shop needs to budget/plan and allocate resources and labor based on the seasonality of it sales so as to avoid unforseen events.
 
-- **Insight 1:** Sales by Weekday vs. Weekend hovers in the range of 70%-75% %  vs. 25%-30%.
-- **Recommendation 1 :** Allocate more resources, labor during weekdays to boost sales revenue.
+- **Insight 2:** Sales by Weekday vs. Weekend hovers in the range of 70%-75% %  vs. 25%-30%.
+- **Recommendation 2 :** Plan and allocate more resources and labor during weekdays to boost sales revenue.
 
 - **Insight 2:** Coffee and Tea are the highest selling product categories, with Barista Espresso, Brewed Chai and Gourmet Brewed Coffee being the all time favorites.
 - **Recommendation 2 :**
@@ -98,7 +98,16 @@ Overarching findings were that weekdays had more sales versus weekends. Further,
    You can find my SQL queries for
    1. MoM sales analysis [here](https://github.com/aslamfaleel/Cofee_Shop_Sales/blob/main/1.8_TotalSalesQtyOrders_PerMonthContribution.sql)
 
-* **CONTRIBUTION: Month over Month (MoM) Contribution Analysis for Sales/Orders/Products.**
+* **CONTRIBUTION: Weekday vs. Weekend Contribution Analysis for Sales/Orders/Products.**
+
+   Weekday sales had a larger contribution to Total Sales of 72% as opposed to weekend sales which had a 28% contribution.  
+   
+   Below is the output of the SQL code created to calculate Weekday sales contribution vs. Weekend sales contribution to Total Sales.
+
+   ![image](https://github.com/user-attachments/assets/16653460-87ce-4399-8145-518d44327c60)
+
+   You can find my SQL queries for
+   1. Weekday vs. Weekend sales contribution analysis [here](https://github.com/aslamfaleel/Cofee_Shop_Sales/blob/main/2.1_WeekendvsWeekdaySales_ForAMonth.sql)
 
 
 
