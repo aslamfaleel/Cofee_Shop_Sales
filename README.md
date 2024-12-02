@@ -22,8 +22,8 @@ Key insights and recommendations per below.
 - **Insight 2:** Sales by Weekday vs. Weekend hovers in the range of 70%-75% %  vs. 25%-30%.
 - **Recommendation 2 :** Plan and allocate more resources and labor during weekdays to boost sales revenue.
 
-- **Insight 2:** Coffee and Tea are the highest selling product categories, with Barista Espresso, Brewed Chai and Gourmet Brewed Coffee being the all time favorites.
-- **Recommendation 2 :**
+- **Insight 3:** Coffee and Tea are the highest selling product categories, with Barista Espresso, Brewed Chai and Gourmet Brewed Coffee being the all time favorites.
+- **Recommendation 3 :**
    - Continous training to be carried out to train new joinees on preparing said products.
    - Ensure adequate and user friendly documentation is available at each location on how to prepare said products.
    - Ensure adequate stocks are available at any given point in time.
@@ -127,72 +127,40 @@ The 2nd half 2023 had more sales versus the 1st half primarily due to staggering
    You can find my SQL query for my
    1. Weekday vs. weekend sales/orders/products analysis [here](https://github.com/aslamfaleel/Cofee_Shop_Sales/blob/main/2.1_WeekendvsWeekdaySales_ForAMonth.sql)
 
+* **CONTRIBUTION: Product Category and Product Type Contricution on Sales**
 
-[Visualization specific to category 1]
+   Barista Espresso and Brewed Chai were the highest revenue generating products. For April for example, they were up 19% and 20% MoM respectively.  
+   
+   Below is the output of the Power BI dashboard created.
 
+   ![image](https://github.com/user-attachments/assets/ea81a415-cad7-459e-a395-6ae2818d08a9)
 
-### Category 2:
-
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-
-[Visualization specific to category 2]
-
-
-### Category 3:
-
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-
-[Visualization specific to category 3]
-
-
-### Category 4:
-
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-
-[Visualization specific to category 4]
-
-
+   An interactive Power BI dashboard used to report and explore sales trends can be found clicking [here](https://github.com/aslamfaleel/Cofee_Shop_Sales/blob/main/CoffeeShopSalesPowerBIDashboard.pbix).
 
 # Recommendations:
 
 Based on the insights and findings above, we would recommend the [stakeholder team] to consider the following: 
 
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
-  
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
-  
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
-  
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
-  
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
-  
+- **Insight 1:** There appears to be seasonality in Sales. MoM sales were rather stagnant in Jan and Feb. Sales picked up in March and thereafter continued to grow until the end of May.
+  March, April and May growth in MoM sales were 30%, 20% and 32% respectively. The growth in sales resulted in higher contributions to total sales in April, May and June; 17%, 22% and 24% respectively.
+  Further, sales contribution in the 2nd half was 63% vs. 37% in the 1st half of the year.
 
+- **Recommendation 1 :** The coffee shop needs to budget/plan and allocate resources and labor based on the seasonality of it sales so as to avoid unforseen events.
+
+- **Insight 2:** Sales by Weekday vs. Weekend hovers in the range of 70%-75% %  vs. 25%-30%.
+- **Recommendation 2 :** Plan and allocate more resources and labor during weekdays to boost sales revenue.
+
+- **Insight 3:** Coffee and Tea are the highest selling product categories, with Barista Espresso, Brewed Chai and Gourmet Brewed Coffee being the all time favorites.
+- **Recommendation 3 :**
+   - Continous training to be carried out to train new joinees on preparing said products.
+   - Ensure adequate and user friendly documentation is available at each location on how to prepare said products.
+   - Ensure adequate stocks are available at any given point in time.
+  
 
 # Assumptions and Caveats:
 
 Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
 
-* Assumption 1 (ex: missing country records were for customers based in the US, and were re-coded to be US citizens)
+* Assumption 1 (ex: 2nd Half sales trend were similar to 1st half)
   
-* Assumption 1 (ex: data for December 2021 was missing - this was imputed using a combination of historical trends and December 2020 data)
-  
-* Assumption 1 (ex: because 3% of the refund date column contained non-sensical dates, these were excluded from the analysis)
+* Assumption 1 (ex: data for December 2022 was missing. Hence, we fixed the January growth as zero as a result.)
