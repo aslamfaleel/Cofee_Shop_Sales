@@ -65,13 +65,18 @@ The main database consists of 1 table comprising of below columns organised base
 #### E.  Data Type: double
 11. Unit Price: Price of the product purchased.
    
-# Executive Summary
+# 1.3 Executive Summary
+
+[Back to table of contents](#table-of-contents)
 
 ### Overview of Findings
 
 The 2nd half 2023 had more sales versus the 1st half primarily due to staggering growth in sales witnessed during March, April, and May. Further, weekdays had more sales than weekends. Furthermore, Barista Espresso, Brewed Chai and Hot Chocolate had the highest sales out of all products.
 
-# Insights Deep Dive
+# 1.4 Insights Deep Dive
+
+[Back to table of contents](#table-of-contents)
+
 ### 1. Sales Analysis:
 
 * **GROWTH: Month over Month (MoM) Growth Analysis for Sales/Orders/Products.**
@@ -121,17 +126,6 @@ The 2nd half 2023 had more sales versus the 1st half primarily due to staggering
    You can find my SQL query for my
    1. Weekday vs. weekend sales/orders/products analysis [here](https://github.com/aslamfaleel/Cofee_Shop_Sales/blob/main/2.1_WeekendvsWeekdaySales_ForAMonth.sql)
 
-
-
-
-
-
-
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
 
 [Visualization specific to category 1]
 
