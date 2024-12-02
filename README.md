@@ -13,7 +13,8 @@ In this project, I analysed a dataset to investigate trends in Sales, Orders, an
 Key insights and recommendations per below.
 
 - **Insight 1:** There appears to be seasonality in Sales. MoM sales were rather stagnant in Jan and Feb. Sales picked up in March and thereafter continued to grow until the end of May.
-  March, April and May growth in MoM sales were 30%, 20% and 32% respectively. The growth in sales resulted in higher contributions to total sales in April, May and June; 17%, 22% and 24% respectively. 
+  March, April and May growth in MoM sales were 30%, 20% and 32% respectively. The growth in sales resulted in higher contributions to total sales in April, May and June; 17%, 22% and 24% respectively.
+  Further, the sales contribution in the 2nd half was 63% vs. 37% in the 1st half of the year.
 
 - **Recommendation 1 :** The coffee shop needs to budget/plan and allocate resources and labor based on the seasonality of it sales so as to avoid unforseen events.
 
