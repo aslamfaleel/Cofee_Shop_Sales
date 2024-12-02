@@ -90,35 +90,35 @@ Overarching findings were that weekdays had more sales versus weekends. Further,
 
 * **CONTRIBUTION: Month over Month (MoM) Contribution Analysis for Sales/Orders/Products.**
 
-   The high growth in sales during March, April and May resulted in larger contributions to Total Sales in subsequent months; April 17%, May 22% and June 24%.  
+   The staggering sales growth during March, April and May resulted in larger contributions to Total Sales in subsequent months; April 17%, May 22% and June 24%.  
    
-   Below is the output of the SQL code created to calculate total sales per month, monthly percentage contribution to total sales.
+   Below is the output of the SQL code created to calculate total sales/orders/products per month, monthly percentage contribution to total sales/orders/products.
    
    ![image](https://github.com/user-attachments/assets/2094bfb5-7ee8-4f6c-8ba8-e9267765620e)
    
-   You can find my SQL queries for
+   You can find my SQL query for
    1. MoM Sales/Orders/Products analysis [here](https://github.com/aslamfaleel/Cofee_Shop_Sales/blob/main/1.8_TotalSalesQtyOrders_PerMonthContribution.sql)
 
-* **CONTRIBUTION: Quarter over Quarter (MoM) Contribution Analysis for Sales/Orders/Products.**
+* **CONTRIBUTION: Quarter over Quarter (QoQ) Contribution Analysis for Sales/Orders/Products.**
 
    Second Quarter sales had a larger contribution of 63% to total sales vs. 37% contribution from the 1st Quarter.
    
-   Below is the output of the SQL code created to calculate total sales per quarter, quarterly percentage contribution to total sales.
+   Below is the output of the SQL code created to calculate total sales/orders/products per quarter, quarterly percentage contribution to total sales/orders/products.
    
    ![image](https://github.com/user-attachments/assets/8733c4b7-4b51-4868-b80f-92f016c900b9)
    
-   You can find my SQL queries for
+   You can find my SQL query for
    1. QoQ Sales/Orders/Products analysis [here](https://github.com/aslamfaleel/Cofee_Shop_Sales/blob/main/2.9_QuarterSales_AndContribution.sql)
 
 * **CONTRIBUTION: Weekday vs. Weekend Contribution Analysis for Sales/Orders/Products.**
 
    Weekday sales had a larger contribution of 72% to Total Sales vs. 28% contribution from weekend sales.  
    
-   Below is the output of the SQL code created to calculate contribution from Weekday sales vs. Weekend sales to total sales.
+   Below is the output of the SQL code created to calculate weekday vs. weekend contribution to total sales/orders/products.
 
    ![image](https://github.com/user-attachments/assets/16653460-87ce-4399-8145-518d44327c60)
 
-   You can find my SQL queries for
+   You can find my SQL query for
    1. Weekday vs. Weekend Sales/Orders/Products analysis [here](https://github.com/aslamfaleel/Cofee_Shop_Sales/blob/main/2.1_WeekendvsWeekdaySales_ForAMonth.sql)
 
 
