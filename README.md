@@ -79,7 +79,7 @@ Overarching findings were that weekdays had more sales versus weekends. Further,
    Sales appear to be seasonal for the Coffee Shop where by MoM sales were 30% in March, 20% in April and 32% in May respectively.
    Orders and Products followed a similar seasonal pattern to that of sales.
    
-   Below is the output of the SQL code created to calculate Total Sales per month, MoM difference is sales and MoM percentage change in sales.
+   Below is the output of the SQL code created to calculate total sales per month, MoM difference is sales and MoM percentage change in sales.
    
    ![image](https://github.com/user-attachments/assets/ce596865-91ec-4714-b13c-a435b73d393f)
    
@@ -90,9 +90,9 @@ Overarching findings were that weekdays had more sales versus weekends. Further,
 
 * **CONTRIBUTION: Month over Month (MoM) Contribution Analysis for Sales/Orders/Products.**
 
-   The high growth in sales during March, April and May resulted larger contributions to Total Sales in subsequent months; April 17%, May 22% and June 24%.  
+   The high growth in sales during March, April and May resulted in larger contributions to Total Sales in subsequent months; April 17%, May 22% and June 24%.  
    
-   Below is the output of the SQL code created to calculate Total Sales per month, monthly contribution as a percentage to Total Sales.
+   Below is the output of the SQL code created to calculate total sales per month, monthly percentage contribution to total sales.
    
    ![image](https://github.com/user-attachments/assets/2094bfb5-7ee8-4f6c-8ba8-e9267765620e)
    
@@ -101,9 +101,9 @@ Overarching findings were that weekdays had more sales versus weekends. Further,
 
 * **CONTRIBUTION: Quarter over Quarter (MoM) Contribution Analysis for Sales/Orders/Products.**
 
-   The high growth in sales during March, April and May resulted in larger contributions to Total Sales in the 2nd quarter 63% vs. 1st quarter 37%.  
+   Second Quarter sales had a larger contribution of 63% to total sales vs. 37% contribution from the 1st Quarter.
    
-   Below is the output of the SQL code created to calculate Total Sales per quarter, quarterly contribution as a percentage to Total Sales.
+   Below is the output of the SQL code created to calculate total sales per quarter, quarterly percentage contribution to total sales.
    
    ![image](https://github.com/user-attachments/assets/8733c4b7-4b51-4868-b80f-92f016c900b9)
    
@@ -112,9 +112,9 @@ Overarching findings were that weekdays had more sales versus weekends. Further,
 
 * **CONTRIBUTION: Weekday vs. Weekend Contribution Analysis for Sales/Orders/Products.**
 
-   Weekday sales had a larger contribution to Total Sales of 72% as opposed to weekend sales which had a 28% contribution.  
+   Weekday sales had a larger contribution of 72% to Total Sales vs. 28% contribution from weekend sales.  
    
-   Below is the output of the SQL code created to calculate Weekday sales contribution vs. Weekend sales contribution to Total Sales.
+   Below is the output of the SQL code created to calculate contribution from Weekday sales vs. Weekend sales to total sales.
 
    ![image](https://github.com/user-attachments/assets/16653460-87ce-4399-8145-518d44327c60)
 
